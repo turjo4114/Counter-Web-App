@@ -18,6 +18,10 @@ A clean, modern, and responsive counter built with vanilla HTML, CSS, and JavaSc
 - CSS3
 - JavaScript
 
+<div align="center">
+  <img src="./assets/screenshot.png" alt="Counter app preview" width="600">
+</div>
+
 ## Getting Started
 
 ### Run locally
