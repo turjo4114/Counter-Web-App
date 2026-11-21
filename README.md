@@ -2,10 +2,6 @@
 
 A clean, modern, and responsive counter built with vanilla HTML, CSS, and JavaScript.
 
-<div align="center">
-  <img src="./assets/screenshot.png" alt="Counter app preview" width="600">
-</div>
-
 ## Features
 
 - Increment and decrement the counter
